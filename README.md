@@ -1,7 +1,6 @@
-# ⚠️ DISCLAIMER  
+# ⚠️ NOTE
 
-The creator (**[alanv-tech](https://github.com/alanv-tech)**) **will not be held responsible for any damages**.  
-By using this exploit, you acknowledge that you are using it **AT YOUR OWN RISK**.  
+ExtensionPrinter is officially deprecated after 3 months and 17 days. Thank you for using it
 
 ---
 
